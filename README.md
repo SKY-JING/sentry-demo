@@ -1,2 +1,2 @@
 # sentry-demo
-日志监控
+日志监控系统demo

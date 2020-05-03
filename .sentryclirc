@@ -1,0 +1,7 @@
+[defaults]
+url = https://sentry.io/
+org = merlion
+project = vue
+
+[auth]
+token = 5bfa094d48fb481fa0189d644e5a0adba8aec58647d546079525f1e7ee8cc01b
